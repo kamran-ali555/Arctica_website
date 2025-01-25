@@ -441,7 +441,7 @@ section .Expoort {
   font-weight: 400;
   line-height: 30px;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 44px;
   height: 92px;
 }
 
@@ -1154,8 +1154,8 @@ i {
     display: block;
     flex-direction: column;
     align-items: flex-start;
-   width: 150px;
-   height: 200px;
+   width: 210px;
+   height: 230px;
     margin-top: 60px;
     padding:  20px 25px;
     /* border: 1px solid red; */
